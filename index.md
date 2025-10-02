@@ -1,4 +1,4 @@
-## **<anna-riikka> web-tehtävä**
+## <anna-riikka> web-tehtävä
 
 ### **_Italics and bolds_**
 
@@ -110,3 +110,4 @@ If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
